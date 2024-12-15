@@ -1,0 +1,5 @@
+pip install pytelegrambotapi torch transformers
+pip install pyTelegramBotAPI
+pip install openpyxl
+pip install selenium
+
