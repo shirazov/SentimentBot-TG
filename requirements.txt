@@ -1,2 +1,6 @@
+selenium
+openpyxl
 telebot
 torch
+transformers
+joblib
